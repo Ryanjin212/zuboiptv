@@ -12,10 +12,10 @@ http://192.168.50.1:7575/rtp/239.49.8.74:8000
 #EXTINF:-1, CCTV4
 http://192.168.50.1:7575/rtp/239.49.8.51:9806
 
-#EXTINF:-1, CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5.png",CCTV-5
 http://192.168.50.1:7575/rtp/239.49.8.75:8000
 
-#EXTINF:-1, CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh.catmak.name/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV5+.png",CCTV-5+
 http://192.168.50.1:7575/rtp/239.49.8.18:9610
 
 #EXTINF:-1, CCTV6
