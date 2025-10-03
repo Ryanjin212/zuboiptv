@@ -12,6 +12,8 @@ http://192.168.50.1:7575/udp/239.49.8.74:8000
 http://192.168.50.1:7575/udp/239.49.8.51:9806
 #EXTINF:-1 group-title="未分类",CCTV-5
 http://192.168.50.1:7575/udp/239.49.8.75:8000
+#EXTINF:-1 group-title="未分类",CCTV-5+
+http://192.168.50.1:7575/udp/239.49.8.18:9610
 #EXTINF:-1 group-title="未分类",CCTV-6
 http://192.168.50.1:7575/udp/239.49.8.76:8000
 #EXTINF:-1 group-title="未分类",CCTV-7
@@ -32,14 +34,14 @@ http://192.168.50.1:7575/udp/239.49.0.13:8096
 http://192.168.50.1:7575/udp/239.49.8.56:9826
 #EXTINF:-1 group-title="未分类",CCTV-15
 http://192.168.50.1:7575/udp/239.49.0.15:8112
-#EXTINF:-1 group-title="未分类",CCTV-5+
-http://192.168.50.1:7575/udp/239.49.8.18:9610
+
+#EXTINF:-1 group-title="未分类",CCTV16 4K
+http://192.168.50.1:7575/udp/239.49.0.109:8000
+
 #EXTINF:-1 group-title="未分类",CCTV-17
 http://192.168.50.1:7575/udp/239.49.8.52:9810
 #EXTINF:-1 group-title="未分类",CCTV4K
 http://192.168.50.1:7575/udp/239.49.0.82:8000
-#EXTINF:-1 group-title="未分类",CCTV16 4K
-http://192.168.50.1:7575/udp/239.49.0.109:8000
 #EXTINF:-1 group-title="未分类",北京卫视4K
 http://192.168.50.1:7575/udp/239.49.0.253:8000
 #EXTINF:-1 group-title="未分类",广东卫视4K
