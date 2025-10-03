@@ -32,7 +32,7 @@ http://192.168.50.1:7575/udp/239.49.0.13:8096
 http://192.168.50.1:7575/udp/239.49.8.56:9826
 #EXTINF:-1 group-title="未分类",CCTV-15
 http://192.168.50.1:7575/udp/239.49.0.15:8112
-#EXTINF:-1 group-title="未分类",CCTV-5
+#EXTINF:-1 group-title="未分类",CCTV-5+
 http://192.168.50.1:7575/udp/239.49.8.18:9610
 #EXTINF:-1 group-title="未分类",CCTV-17
 http://192.168.50.1:7575/udp/239.49.8.52:9810
