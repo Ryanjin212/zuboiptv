@@ -2,19 +2,19 @@
 
 
 
-#EXTINF:-1 tvg-id="KBS1.kr;" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png"  group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/512px-KBS_1_logo.svg.png"  group-title="General",KBS1
 http://mytv.dothome.co.kr/ch/public/1.php
-#EXTINF:-1 tvg-id="KBS1.kr;" tvg-logo="https://i.imgur.com/I4Z8R02.jpg"  group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/I4Z8R02.jpg"  group-title="General",KBS1
 http://githubstream.dpdns.org/kr.php?id=1
-#EXTINF:-1 tvg-id="KBS1.kr;" tvg-logo="https://i.imgur.com/co5JP79.png"  group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/co5JP79.png"  group-title="General",KBS1
 http://githubstream.dpdns.org/kr.php?id=11
-#EXTINF:-1 tvg-id="KBS1.kr;" tvg-logo="https://i.imgur.com/OHHrLqv.png"  group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/OHHrLqv.png"  group-title="General",KBS1
 http://githubstream.dpdns.org/kr.php?id=12
-#EXTINF:-1 tvg-id="KBS1.kr;" tvg-logo="https://i.imgur.com/EMVWCh0.png"  group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/EMVWCh0.png"  group-title="General",KBS1
 http://githubstream.dpdns.org/kr.php?id=13
-#EXTINF:-1 tvg-id="KBS1.kr;" tvg-logo="https://i.imgur.com/uKLgVLZ.png"  group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/uKLgVLZ.png"  group-title="General",KBS1
 http://githubstream.dpdns.org/kr.php?id=14
-#EXTINF:-1 tvg-id="KBS1.kr;" tvg-logo="https://i.imgur.com/2f6W60P.png"  group-title="General",KBS1
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-logo="https://i.imgur.com/2f6W60P.png"  group-title="General",KBS1
 http://githubstream.dpdns.org/kr.php?id=15
 
 
