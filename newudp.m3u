@@ -2,43 +2,43 @@
 #EXT-X-APP APTV
 #EXT-X-APTV-TYPE local
 
-#EXTINF:-1 group-title="未分类",CCTV-1
+#EXTINF:-1 group-title="未分类",CCTV1
 http://192.168.50.1:7575/udp/239.49.8.19:9614
-#EXTINF:-1 group-title="未分类",CCTV-2
+#EXTINF:-1 group-title="未分类",CCTV2
 http://192.168.50.1:7575/udp/239.49.8.50:9802
-#EXTINF:-1 group-title="未分类",CCTV-3
+#EXTINF:-1 group-title="未分类",CCTV3
 http://192.168.50.1:7575/udp/239.49.8.74:8000
-#EXTINF:-1 group-title="未分类",CCTV-4
+#EXTINF:-1 group-title="未分类",CCTV4
 http://192.168.50.1:7575/udp/239.49.8.51:9806
-#EXTINF:-1 group-title="未分类",CCTV-5
+#EXTINF:-1 group-title="未分类",CCTV5
 http://192.168.50.1:7575/udp/239.49.8.75:8000
-#EXTINF:-1 group-title="未分类",CCTV-5+
+#EXTINF:-1 group-title="未分类",CCTV5+
 http://192.168.50.1:7575/udp/239.49.8.18:9610
-#EXTINF:-1 group-title="未分类",CCTV-6
+#EXTINF:-1 group-title="未分类",CCTV6
 http://192.168.50.1:7575/udp/239.49.8.76:8000
-#EXTINF:-1 group-title="未分类",CCTV-7
+#EXTINF:-1 group-title="未分类",CCTV7
 http://192.168.50.1:7575/udp/239.49.8.126:8000
-#EXTINF:-1 group-title="未分类",CCTV-8
+#EXTINF:-1 group-title="未分类",CCTV8
 http://192.168.50.1:7575/udp/239.49.8.77:8000
-#EXTINF:-1 group-title="未分类",CCTV-9
+#EXTINF:-1 group-title="未分类",CCTV9
 http://192.168.50.1:7575/udp/239.49.8.53:9814
-#EXTINF:-1 group-title="未分类",CCTV-10
+#EXTINF:-1 group-title="未分类",CCTV10
 http://192.168.50.1:7575/udp/239.49.8.54:9818
-#EXTINF:-1 group-title="未分类",CCTV-11
+#EXTINF:-1 group-title="未分类",CCTV11
 http://192.168.50.1:7575/udp/239.49.0.11:8080
-#EXTINF:-1 group-title="未分类",CCTV-12
+#EXTINF:-1 group-title="未分类",CCTV12
 http://192.168.50.1:7575/udp/239.49.8.55:9822
-#EXTINF:-1 group-title="未分类",CCTV-13
+#EXTINF:-1 group-title="未分类",CCTV13
 http://192.168.50.1:7575/udp/239.49.0.13:8096
-#EXTINF:-1 group-title="未分类",CCTV-14
+#EXTINF:-1 group-title="未分类",CCTV14
 http://192.168.50.1:7575/udp/239.49.8.56:9826
-#EXTINF:-1 group-title="未分类",CCTV-15
+#EXTINF:-1 group-title="未分类",CCTV15
 http://192.168.50.1:7575/udp/239.49.0.15:8112
 
 #EXTINF:-1 group-title="未分类",CCTV16 4K
 http://192.168.50.1:7575/udp/239.49.0.109:8000
 
-#EXTINF:-1 group-title="未分类",CCTV-17
+#EXTINF:-1 group-title="未分类",CCTV17
 http://192.168.50.1:7575/udp/239.49.8.52:9810
 #EXTINF:-1 group-title="未分类",CCTV4K
 http://192.168.50.1:7575/udp/239.49.0.82:8000
