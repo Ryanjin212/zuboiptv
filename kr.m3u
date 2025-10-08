@@ -191,7 +191,8 @@ https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
 
 #EXTINF:-1 tvg-id="MBC Net.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net [Geo-blocked]
 http://webhost.ocnlava.dpdns.org/kr.php?id=28
-
+#EXTINF:-1 tvg-id="MBC Net.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net [Geo-blocked]
+http://mytv.dothome.co.kr/ch/catv/28.php
 
 #EXTINF:-1 tvg-id="SBS Plus.kr" tvg-logo="https://i.imgur.com/Tf17nIu.png" group-title="General",SBS Plus
 http://webhost.ocnlava.dpdns.org/kr.php?id=31
