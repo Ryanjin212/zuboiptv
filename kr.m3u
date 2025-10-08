@@ -180,12 +180,17 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=878
 #EXTINF:-1 tvg-id="MBC Dramanet.kr" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="Series",MBC 드라마
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_222_FDACF704.m3u8
 
+#EXTINF:-1 tvg-id="MBCDrama.kr" tvg-logo="https://i.imgur.com/Q20rqnX.png" group-title="Series",MBC 드라마 [Geo-blocked]
+http://webhost.ocnlava.dpdns.org/kr.php?id=26
 
 #EXTINF:-1 tvg-id="MBC Every1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Entertainment",MBC에브리원
 https://tistory1.daumcdn.net/tistory/2864485/skin/images/CATV_223_D2C739D6.m3u8
 
-#EXTINF:-1 tvg-id="MBC NET.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET" group-title="Entertainment",MBC Net[Geo-blocked]
-http://mytv.dothome.co.kr/ch/catv/28.php
+#EXTINF:-1 tvg-id="MBCEvery1.kr" tvg-logo="https://i.imgur.com/cnawqOu.png" group-title="Undefined",MBC에브리원
+https://ythls.armelin.one/channel/UC-VbFgagk6GJGDJgRQIMpZw.m3u8
+
+#EXTINF:-1 tvg-id="MBC Net.kr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/MBCNET_%EB%A1%9C%EA%B3%A0.svg/512px-MBCNET_%EB%A1%9C%EA%B3%A0.svg.png" group-title="Undefined",MBC Net [Geo-blocked]
+http://webhost.ocnlava.dpdns.org/kr.php?id=28
 
 
 #EXTINF:-1 tvg-id="SBS Plus.kr" tvg-logo="https://i.imgur.com/Tf17nIu.png" group-title="General",SBS Plus
@@ -206,7 +211,8 @@ http://webhost.ocnlava.dpdns.org/kr.php?id=34
 #EXTINF:-1 tvg-id="OBS.kr" tvg-logo="https://i.imgur.com/oWB3ApR.png" group-title="General",OBS
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_55.m3u8
 
-
+#EXTINF:-1 tvg-id="TBSTV.kr" tvg-logo="https://i.imgur.com/iOnWS6V.png" group-title="Undefined",TBS서울
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="General" group-title="General",chBTV인천방송
 https://tistory1.daumcdn.net/tistory/2864460/skin/images/CATV_415_3B0A4DFF.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="General" group-title="General",SCS서경방송
@@ -558,5 +564,3 @@ https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SK stoa.kr" tvg-logo="https://i.imgur.com/dhuDviW.png" group-title="Shop",SK stoa
 http://cast.bshopping.co.kr:8080/live/BSHOPPING.daml/playlist.m3u8
-
-
